@@ -32,4 +32,7 @@
 </br>
 
 
-#### [<image src="https://github.com/lianKim/lianKim/assets/97217822/be597b79-44e9-439b-8859-109142a31c24" alt="Website" width="auto" height="16px" />](https://liankim.kr) [<image src="https://github.com/lianKim/lianKim/assets/97217822/007bc4b2-93d9-4d88-83e3-c2d77664ca60" alt="Notion" width="auto" height="16px" />](#) [<image src="https://github.com/lianKim/lianKim/assets/97217822/6a84a3fc-82d5-4d0c-9f5c-8fcaad19a81c" alt="Gmail" width="auto" height="16px" />](mailto:5ffcut@gmail.com) 
+</br>
+
+
+[<image src="https://github.com/lianKim/lianKim/assets/97217822/be597b79-44e9-439b-8859-109142a31c24" alt="Website" width="auto" height="16px" />](https://liankim.kr) [<image src="https://github.com/lianKim/lianKim/assets/97217822/007bc4b2-93d9-4d88-83e3-c2d77664ca60" alt="Notion" width="auto" height="16px" />](#) [<image src="https://github.com/lianKim/lianKim/assets/97217822/6a84a3fc-82d5-4d0c-9f5c-8fcaad19a81c" alt="Gmail" width="auto" height="16px" />](mailto:5ffcut@gmail.com) 
