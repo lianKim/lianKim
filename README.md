@@ -22,8 +22,7 @@
 </br>
 
 
-![AWS](https://img.shields.io/badge/AWS-white?&style=flat-square&logo=amazonaws&logoColor=232F3E)![Amazon S3](https://img.shields.io/badge/AmazonS3-white?&style=flat-square&logo=amazons3&logoColor=569A31)![Amazon EC2](https://img.shields.io/badge/AmazonEC2-white?&style=flat-square&logo=amazonec2&logoColor=FF9900)![GitHub Actions](https://img.shields.io/badge/GitHubActions-white?&style=flat-square&logo=githubactions&logoColor=2088FF)![Vercel](https://img.shields.io/badge/Vercel-white?&style=flat-square&logo=vercel&logoColor=000000)![NGINX](https://img.shields.io/badge/NGINX-white?&style=flat-square&logo=nginx&logoColor=009639)
-
+![AWS](https://img.shields.io/badge/AWS-white?&style=flat-square&logo=amazonaws&logoColor=232F3E)![Vercel](https://img.shields.io/badge/Vercel-white?&style=flat-square&logo=vercel&logoColor=000000)![GitHub Actions](https://img.shields.io/badge/GitHubActions-white?&style=flat-square&logo=githubactions&logoColor=2088FF)
 
 
 ![Git](https://img.shields.io/badge/Git-white?&style=flat-square&logo=git&logoColor=F05032)![Slack](https://img.shields.io/badge/Slack-white?&style=flat-square&logo=slack&logoColor=4A154B)![Notion](https://img.shields.io/badge/Notion-white?&style=flat-square&logo=notion&logoColor=000000)![Figma](https://img.shields.io/badge/Figma-white?&style=flat-square&logo=figma&logoColor=F24E1E)![Adobe](https://img.shields.io/badge/Adobe-white?&style=flat-square&logo=adobe&logoColor=FF0000)
